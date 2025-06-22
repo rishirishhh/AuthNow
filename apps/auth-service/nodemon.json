@@ -1,0 +1,5 @@
+{
+  "watch": ["apps/auth-service/src"],
+  "ext": "ts",
+  "exec": "nx build auth-service && node apps/auth-service/dist/main.js"
+}

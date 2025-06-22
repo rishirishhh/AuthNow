@@ -4,12 +4,6 @@
   "files": [],
   "references": [
     {
-      "path": "./apps/authNow-e2e"
-    },
-    {
-      "path": "./apps/authNow"
-    },
-    {
       "path": "./apps/auth-service"
     }
   ]
